@@ -4,3 +4,4 @@ requests
 sqlalchemy
 psycopg2
 alembic
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
